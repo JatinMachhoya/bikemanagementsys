@@ -1,0 +1,26 @@
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\bin\Debug\Bike SErvice Managament.exe.config
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\bin\Debug\Bike SErvice Managament.exe
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\bin\Debug\Bike SErvice Managament.pdb
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\bin\Debug\Guna.UI2.dll
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike SErvice Managament.csproj.AssemblyReference.cache
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.User_Login.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.Properties.Resources.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike SErvice Managament.csproj.GenerateResource.cache
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike SErvice Managament.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike SEr.86CDCAE8.Up2Date
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike SErvice Managament.exe
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike SErvice Managament.pdb
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.admin_login.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.admin_bike.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.admin_stock.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.Emp.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\bin\Debug\Bike_db.mdf
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\bin\Debug\Bike_db_log.ldf
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.Bill.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.Dashboard.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.Loading.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.UserBike.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.UserStock.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.UserBill.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.UserDashboard.resources
+C:\Users\ROG STRIX\source\repos\Bike SErvice Managament\Bike SErvice Managament\obj\Debug\Bike_SErvice_Managament.UserProfile.resources
